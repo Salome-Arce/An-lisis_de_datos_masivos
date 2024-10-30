@@ -1,0 +1,413 @@
+N°VIAJE,FECHA DE CARGA,REMITO,MOVIL,DOMINIO,MOVIL,DOMINIO,m3,CHOFER,CLIENTE,Horas_Hombre,Costo_Reparacion_Arg,Tipo_Reparacion,Descripcion_Reparacion,Mecanico_ID
+2292,01-jun,0702-00015607,M37,AE325BO,C18,AE810XH,40,"Valeriano, Ariel (T)",MANSFIELD,11," $ 484,835.00 ",Motor,Cambio de amortiguadores,199
+2291,01-jun,0702-00015608,M41,AF181NU,C15,AD967OI,40,"Serapio, Diego (R)",POSCO,12," $ 361,217.00 ",Carrocería,Revisión de transmisión,116
+2289,01/06/2024,0702-00015610,M38,AE354AG,C11,KYR378,34,"Fernandez, Nelson (T)",GALAXY,15," $ 225,222.00 ",Sistema eléctrico,Cambio de aceite,180
+2297,02-jun,0702-00015612,M42,AF204AU,C20,AF066DC,40,"Hurtado, Fabian (T)",MANSFIELD,14," $ 432,850.00 ",Sistema eléctrico,Reparación eléctrica,114
+2295,02-jun,0702-00015614,M45,AF791GW,C24,AF418BQ,40,"Ramos, Andres (R)",HANAQ,4," $ 333,775.00 ",Sistema eléctrico,Cambio de aceite,124
+2306,03-jun,0702-00015619,M40,AF181NT,C21,AF066DD,40,"Serapio, Diego (R)",LITHEA,2," $ 57,929.00 ",Suspensión,Cambio de aceite,163
+2306,03-jun,0702-00015619,M40,AF181NT,C21,AF066DD,40,"Serapio, Diego (R)",LITHEA,2," $ 57,929.00 ",Suspensión,Cambio de aceite,163
+2305,03-jun,0702-00015620,M43,AF192NQ,C25,AF418BR,40,"Gonzalez, Marcos (R)",YAC MINERO DE AGUA DE DIONISI,13," $ 286,221.00 ",Sistema eléctrico,Cambio de amortiguadores,190
+2304,03-jun-24,0702-00015621,M41,AF181NU,C15,AD967OI,40,"Collar, Walter (T)",YAC MINERO DE AGUA DE DIONISI,12," $ 205,408.00 ",Sistema eléctrico,Cambio de filtros,139
+2303,03-jun,0702-00015622,M39,AF181NS,C16,AD982PF,34,"Velazquez, Gilberto (T)",POSCO,5," $ 433,176.00 ",Transmisión,Sustitución de frenos,162
+2315,04-jun,0702-00015632,M37,AE325BO,C18,AE810XH,40,"Guitian, Sandro (R)",MINERA DEL ALTIPLANO EXPANSION,10," $ 484,505.00 ",Sistema eléctrico,Cambio de filtros,155
+2313,04-jun,0702-00015634,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",LITIO M. P. MARIANA,18," $ 421,864.00 ",Frenos,Revisión de transmisión,125
+2312,04-jun,0702-00015635,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",MINERA DEL ALTIPLANO FMC,3," $ 474,140.00 ",Suspensión,Revisión de transmisión,140
+2321,05-jun,0702-00015641,M40,AF181NT,C21,AF066DD,40,"Serapio, Diego (R)",LITIO M. P. MARIANA,6," $ 193,716.00 ",Carrocería,Cambio de amortiguadores,114
+2319,05/06/2024,0954-00000643,M38,AE354AG,C11,KYR378,34,"Fernandez, Nelson (T)",SAN ANTONIO INTERNACIONAL,16," $ 405,503.00 ",Sistema eléctrico,Revisión de transmisión,164
+2330,06-jun-24,0702-00015645,M39,AF181NS,C10,IGN677,34,"Velazquez, Gilberto (T)",ERAMINE,17," $ 242,761.00 ",Motor,Cambio de filtros,193
+2326,06-jun,0702-00015649,M43,AF192NQ,C25,AF418BR,40,"Gonzalez, Marcos (R)",LITIO M. P. MARIANA,9," $ 496,713.00 ",Motor,Sustitución de frenos,198
+2325,06-jun,0702-00015650,M41,AF181NU,C15,AD967OI,40,"Collar, Walter (T)",MINERA DEL ALTIPLANO FMC,6," $ 392,663.00 ",Frenos,Reparación eléctrica,101
+2324,06-jun,0702-00015652,M42,AF204AU,C20,AF066DC,40,"Hurtado, Fabian (T)",MINERA SANTA RITA - QUIJANO,5," $ 415,021.00 ",Frenos,Ajuste de válvulas,161
+2337,07-jun,0702-00015654,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",YAC MINERO DE AGUA DE DIONISI,17," $ 199,261.00 ",Frenos,Cambio de amortiguadores,109
+2335,07-jun,0702-00015656,M38,AE354AG,C11,KYR378,34,"Fernandez, Nelson (T)",HANAQ,6," $ 97,492.00 ",Motor,Sustitución de frenos,116
+2334,07-jun,0702-00015657,M37,AE325BO,C18,AE810XH,40,"Guitian, Sandro (R)",MANSFIELD,2," $ 292,076.00 ",Suspensión,Cambio de amortiguadores,107
+2331,07-jun,0702-00015660,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",MANSFIELD,6," $ 475,155.00 ",Motor,Reparación eléctrica,111
+2345,08-jun,0702-00015661,M42,AF204AU,C20,AF066DC,40,"Hurtado, Fabian (T)",CHINCHILLAS PIRQUITAS,12," $ 393,448.00 ",Carrocería,Sustitución de frenos,154
+2344,08-jun,0702-00015662,M42,AF204AU,C20,AF066DC,,"Hurtado, Fabian (T)",CHINCHILLAS PIRQUITAS,18," $ 277,365.00 ",Suspensión,Sustitución de frenos,157
+2351,09-jun,0702-00015668,M40,AF181NT,C21,AF066DD,40,"Serapio, Diego (R)",YAC MINERO DE AGUA DE DIONISI,4," $ 311,455.00 ",Suspensión,Sustitución de frenos,158
+2350,09/06/2024,0702-00015669,M39,AF181NS,C16,AD982PF,34,"Velazquez, Gilberto (T)",ERAMINE,18," $ 390,630.00 ",Carrocería,Cambio de filtros,161
+2349,09-jun,0702-00015670,M41,AF181NU,C15,AD967OI,40,"Collar, Walter (T)",YAC MINERO DE AGUA DE DIONISI,19," $ 431,446.00 ",Frenos,Revisión de carrocería,163
+2348,09-jun,0702-00015671,M38,AE354AG,C11,KYR378,34,"Fernandez, Nelson (T)",CORANZULI PIRQUITAS,12," $ 109,080.00 ",Suspensión,Cambio de filtros,179
+2357,10-jun,0702-00015674,M42,AF204AU,C20,AF066DC,40,"Hurtado, Fabian (T)",CHINCHILLAS PIRQUITAS,7," $ 101,028.00 ",Frenos,Reparación eléctrica,183
+2356,10-jun,0702-00015675,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",MANSFIELD,16," $ 178,112.00 ",Carrocería,Cambio de aceite,130
+2352,10-jun,0702-00015679,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",MINERA DEL ALTIPLANO FMC,10," $ 241,792.00 ",Frenos,Cambio de aceite,171
+2362,11-jun,0702-00015681,M37,AE325BO,C18,AE810XH,40,"Valeriano, Ariel (T)",ERAMINE,15," $ 230,920.00 ",Transmisión,Revisión de carrocería,102
+2359,11-jun,0954-00000703,M38,AE354AG,C11,KYR378,34,"Fernandez, Nelson (T)",SAN ANTONIO INTERNACIONAL,12," $ 128,878.00 ",Motor,Revisión de carrocería,181
+2358,11-jun,0954-00000704,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",LITHEA,13," $ 435,277.00 ",Motor,Cambio de filtros,155
+2365,12-jun,0702-00015686,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",EXAR,9," $ 224,974.00 ",Carrocería,Revisión de carrocería,143
+2364,12-jun,0702-00015687,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",CHINCHILLAS PIRQUITAS,10," $ 425,326.00 ",Sistema eléctrico,Reparación eléctrica,100
+2363,12-jun,0702-00015688,M45,AF791GW,C24,AF418BQ,,"Ramos, Pablo (T)",CHINCHILLAS PIRQUITAS,10," $ 196,425.00 ",Transmisión,Sustitución de frenos,123
+2375,13-jun,0702-00015691,M42,AF204AU,C20,AF066DC,40,"Hurtado, Fabian (T)",LITIO M. P. MARIANA,3," $ 55,112.00 ",Transmisión,Cambio de aceite,112
+2374,13-jun,0702-00015692,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",MINERA DEL ALTIPLANO FMC,16," $ 163,643.00 ",Motor,Revisión de transmisión,197
+2372,13-jun,0702-00015694,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",LITIO M. P. MARIANA,6," $ 210,418.00 ",Motor,Cambio de aceite,112
+2371,13-jun,0702-00015695,M38,AE354AG,C11,KYR378,34,"Guitian, Sandro (R)",MINERA DEL ALTIPLANO FMC,6," $ 192,351.00 ",Suspensión,Cambio de filtros,123
+2383,14-jun,0702-00015700,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",SALES,13," $ 178,102.00 ",Frenos,Cambio de amortiguadores,155
+2380,14-jun,0702-00015704,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",MINERA DEL ALTIPLANO EXPANSION,18," $ 54,887.00 ",Motor,Cambio de aceite,133
+2378,14-jun,0702-00015706,M41,AF181NU,C15,AD967OI,40,"Collar, Walter (T)",CHINCHILLAS PIRQUITAS,19," $ 182,815.00 ",Frenos,Ajuste de válvulas,155
+2387,15/06/2024,0702-00015707,M37,AE325BO,C18,AE810XH,40,"Valeriano, Ariel (T)",LITHEA,10," $ 286,217.00 ",Transmisión,Cambio de filtros,100
+2384,15-jun,0702-00015711,M38,AE354AG,C11,KYR378,34,"Guitian, Sandro (R)",SAN ANTONIO INTERNACIONAL,18," $ 312,400.00 ",Suspensión,Sustitución de frenos,178
+2394,16-jun,0702-00015713,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",POSCO,13," $ 320,012.00 ",Frenos,Cambio de aceite,130
+2403,17-jun,0702-00015719,M42,AF204AU,C20,AF066DC,40,"Gonzalez, Marcos (R)",ERAMINE,18," $ 174,905.00 ",Carrocería,Revisión de transmisión,188
+2401,17-jun,0702-00015721,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",LITIO M. P. MARIANA,16," $ 170,819.00 ",Transmisión,Sustitución de frenos,176
+2400,17-jun,0702-00015722,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",POSCO,11," $ 177,421.00 ",Transmisión,Revisión de carrocería,112
+2397,17-jun,0702-00015725,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",MINERA DEL ALTIPLANO FMC,3," $ 487,587.00 ",Suspensión,Cambio de aceite,161
+2396,17-jun,0702-00015726,M37,AE325BO,C18,AE810XH,40,"Guitian, Sandro (R)",MANSFIELD,3," $ 234,103.00 ",Motor,Reparación eléctrica,123
+2395,17-jun,0702-00015727,M38,AE354AG,C11,KYR378,34,"Serapio, Diego (R)",MANSFIELD,17," $ 306,600.00 ",Transmisión,Cambio de amortiguadores,192
+2406,18-jun,0702-00015729,M41,AF181NU,C15,AD967OI,40,"Collar, Walter (T)",PUNA MINING,9," $ 88,309.00 ",Frenos,Cambio de aceite,174
+2409,19-jun,0702-00015735,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",MANSFIELD,18," $ 448,613.00 ",Sistema eléctrico,Revisión de transmisión,195
+2419,20-jun,0702-00015741,M42,AF204AU,C20,AF066DC,40,"Gonzalez, Marcos (R)",MINERA DEL ALTIPLANO FMC,7," $ 166,309.00 ",Sistema eléctrico,Revisión de carrocería,120
+2417,20-jun,0702-00015743,M41,AF181NU,C15,AD967OI,40,"Collar, Walter (T)",LITIO M. P. MARIANA,10," $ 262,725.00 ",Sistema eléctrico,Revisión de transmisión,121
+2416,20-jun,0702-00015744,M38,AE354AG,C11,KYR378,34,"Fernandez, Nelson (T)",MINERA DEL ALTIPLANO FMC,6," $ 379,379.00 ",Frenos,Revisión de transmisión,167
+2415,20-jun,0702-00015745,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",SALES,3," $ 489,771.00 ",Carrocería,Reparación eléctrica,185
+2411,20-jun,0702-00015749,M44,AF791GV,C25,AF418BR,40,"Serapio, Diego (R)",LITIO M. P. MARIANA,14," $ 313,926.00 ",Carrocería,Revisión de transmisión,103
+2428,21-jun,0702-00015752,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",ERAMINE,18," $ 191,993.00 ",Motor,Cambio de aceite,139
+2425,21-jun,0702-00015755,M37,AE325BO,C11,KYR378,40,"Guitian, Sandro (R)",MINERA DEL ALTIPLANO FMC,3," $ 302,562.00 ",Transmisión,Cambio de amortiguadores,171
+2431,22-jun,0702-00015760,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",LITIO M. P. MARIANA,8," $ 421,577.00 ",Motor,Cambio de amortiguadores,174
+2430,22-jun,0702-00015761,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",MANSFIELD,17," $ 222,548.00 ",Sistema eléctrico,Cambio de aceite,131
+2436,23-jun,0702-00015764,M45,AF791GW,C24,AF418BQ,40,"Ramos, Andres (R)",POSCO,17," $ 337,043.00 ",Carrocería,Cambio de filtros,137
+2435,23-jun,0702-00015765,M42,AF204AU,C20,AF066DC,40,"Hurtado, Fabian (T)",POTASIO Y LITIO DE ARG.,5," $ 302,767.00 ",Frenos,Cambio de filtros,141
+2434,23-jun,0702-00015766,M38,AE354AG,C18,AE810XH,34,"Fernandez, Nelson (T)",MANSFIELD,8," $ 68,983.00 ",Transmisión,Revisión de carrocería,152
+2447,24-jun,0702-00015770,M37,AE325BO,C18,AE810XH,40,"Velazquez, Gilberto (T)",MINERA DEL ALTIPLANO FMC,3," $ 190,450.00 ",Transmisión,Reparación eléctrica,120
+2443,24-jun,0702-00015774,M41,AF181NU,C15,AD967OI,40,"Serapio, Diego (R)",CORANZULI PIRQUITAS,19," $ 215,107.00 ",Suspensión,Cambio de amortiguadores,155
+2442,24-jun,0702-00015775,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",MINERA DEL ALTIPLANO (POCITOS),19," $ 280,608.00 ",Motor,Reparación eléctrica,188
+2450,25-jun,0702-00015782,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",POSCO,11," $ 426,007.00 ",Carrocería,Ajuste de válvulas,152
+2461,26/06/2024,0702-00015784,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",MANSFIELD,18," $ 401,153.00 ",Suspensión,Cambio de amortiguadores,138
+2460,26-jun,0702-00015785,M41,AF181NU,C15,AD967OI,40,"Serapio, Diego (R)",MINERA DEL ALTIPLANO FMC,7," $ 235,145.00 ",Motor,Revisión de transmisión,103
+2457,26-jun,0702-00015788,M45,AF791GW,C24,AF418BQ,40,"Ramos, Andres (R)",MINERA DEL ALTIPLANO FMC,16," $ 256,312.00 ",Transmisión,Cambio de filtros,182
+2455,26-jun,0702-00015790,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",EXAR,12," $ 354,181.00 ",Carrocería,Revisión de carrocería,180
+2464,27-jun,0954-00000713,M37,AE325BO,C18,AE810XH,40,"Velazquez, Gilberto (T)",POSCO,19," $ 79,476.00 ",Carrocería,Revisión de transmisión,122
+2462,27-jun,0954-00000715,M42,AF204AU,C20,AF066DC,40,"Hurtado, Fabian (T)",CORANZULI PIRQUITAS,13," $ 163,294.00 ",Sistema eléctrico,Cambio de filtros,184
+2468,28-jun,1562-00000006,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",MANSFIELD,1," $ 310,680.00 ",Motor,Revisión de carrocería,131
+2479,29-jun,0954-00000719,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",EXAR,7," $ 421,861.00 ",Carrocería,Sustitución de frenos,177
+2476,29-jun,0954-00000725,M41,AF181NU,C15,AD967OI,40,"Serapio, Diego (R)",MINERA SANTA RITA - QUIJANO,19," $ 76,953.00 ",Suspensión,Ajuste de válvulas,110
+2475,29-jun,0954-00000727,M38,AE354AG,C11,KYR378,34,"Fernandez, Nelson (T)",POSCO,5," $ 129,185.00 ",Transmisión,Cambio de filtros,108
+2473,29-jun,0954-00000729,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",CHINCHILLAS PIRQUITAS,9," $ 459,845.00 ",Motor,Cambio de aceite,128
+2472,29-jun,0954-00000730,M43,AF192NQ,C25,AF418BR,,"Arroyo, Mario (T)",CHINCHILLAS PIRQUITAS,10," $ 250,638.00 ",Carrocería,Revisión de transmisión,161
+2471,29-jun,1562-00000008,M45,AF791GW,C24,AF418BQ,40,"Ramos, Andres (R)",MANSFIELD,8," $ 449,577.00 ",Frenos,Revisión de transmisión,174
+2483,30-jun,0954-00000732,M42,AF204AU,C20,AF066DC,40,"Hurtado, Fabian (T)",EXAR,15," $ 186,162.00 ",Sistema eléctrico,Cambio de amortiguadores,169
+2488,01-jul,1562-00000013,M37,AE325BO,C18,AE810XH,40,"Valeriano, Ariel (T)",LITHEA,12," $ 147,233.00 ",Frenos,Reparación eléctrica,179
+2486,01-jul,1562-00000015,M44,AF791GV,C25,AF418BR,40,"Suarez, Rolando (T)",LITIO M. P. MARIANA,8," $ 448,246.00 ",Frenos,Revisión de carrocería,190
+2496,02-jul,0954-00000652,M38,AE354AG,C11,KYR378,34,"Guitian, Sandro (R)",POSCO,9," $ 224,569.00 ",Suspensión,Sustitución de frenos,197
+2493,02-jul,1562-00000021,M43,AF192NQ,C25,AF418BR,40,"Gonzalez, Marcos (R)",LITIO M. P. MARIANA,7," $ 324,927.00 ",Motor,Sustitución de frenos,144
+2505,03-jul,0954-00000654,M45,AF791GW,C24,AF418BQ,40,"Ramos, Andres (R)",MINERA SANTA RITA - QUIJANO,17," $ 147,758.00 ",Frenos,Cambio de filtros,159
+2505,03-jul,0954-00000654,M45,AF791GW,C24,AF418BQ,40,"Ramos, Andres (R)",MINERA SANTA RITA - QUIJANO,17," $ 147,758.00 ",Frenos,Cambio de filtros,159
+2500,03-jul,1562-00000033,M37,AE325BO,C18,AE810XH,40,"Valeriano, Ariel (T)",CORANZULI PIRQUITAS,11," $ 258,021.00 ",Suspensión,Reparación eléctrica,168
+2499,03-jul,1562-00000034,M41,AF181NU,C15,AD967OI,40,"Collar, Walter (T)",MINERA SANTA RITA - QUIJANO,2," $ 262,678.00 ",Frenos,Cambio de filtros,189
+2512,04-jul,0954-00000659,M42,AF204AU,C20,AF066DC,40,"Hurtado, Fabian (T)",SALES,10," $ 118,453.00 ",Suspensión,Ajuste de válvulas,141
+2509,04-jul,1562-00000038,M40,AF181NT,C21,AF066DD,40,"Serapio, Diego (R)",PECOM,9," $ 196,408.00 ",Frenos,Revisión de transmisión,106
+2507,04-jul,1562-00000040,M41,AF181NU,C15,AD967OI,40,"Collar, Walter (T)",MINERA SANTA RITA - QUIJANO,8," $ 69,272.00 ",Transmisión,Cambio de amortiguadores,123
+2521,05-jul,0954-00000661,M44,AF791GV,C25,AF418BR,40,"Suarez, Rolando (T)",PUNA MINING,8," $ 174,676.00 ",Sistema eléctrico,Ajuste de válvulas,101
+2516,05-jul,1562-00000054,M37,AE325BO,C18,AE810XH,40,"Valeriano, Ariel (T)",MINERA DEL ALTIPLANO FMC,19," $ 317,133.00 ",Frenos,Cambio de filtros,158
+2515,05-jul,1562-00000055,M38,AE354AG,C11,KYR378,34,"Guitian, Sandro (R)",POSCO,19," $ 277,555.00 ",Motor,Revisión de transmisión,195
+2514,05-jul,1562-00000056,M41,AF181NU,C15,AD967OI,40,"Collar, Walter (T)",MANSFIELD,3," $ 400,240.00 ",Transmisión,Cambio de filtros,166
+2525,06-jul,1562-00000057,M42,AF204AU,C20,AF066DC,40,"Hurtado, Fabian (T)",MINERA DEL ALTIPLANO FMC,10," $ 123,490.00 ",Suspensión,Ajuste de válvulas,128
+2523,06-jul,1562-00000060,M43,AF192NQ,C25,AF418BR,40,"Gonzalez, Marcos (R)",POSCO,11," $ 338,185.00 ",Suspensión,Reparación eléctrica,170
+2522,06-jul,1562-00000061,M45,AF791GW,C24,AF418BQ,40,"Ramos, Andres (R)",LITHEA,11," $ 421,921.00 ",Frenos,Sustitución de frenos,173
+2529,07-jul,1562-00000062,M40,AF181NT,C21,AF066DD,40,"Serapio, Diego (R)",MINERA SANTA RITA - QUIJANO,11," $ 69,313.00 ",Carrocería,Revisión de carrocería,177
+2528,07-jul,1562-00000063,M44,AF791GV,C25,AF418BR,40,"Suarez, Rolando (T)",POSCO,15," $ 71,283.00 ",Frenos,Sustitución de frenos,177
+2538,08-jul,1562-00000078,M34,AD925YJ,C03,KBB631,34,"Gallardo, Ivan",POSCO,3," $ 427,504.00 ",Carrocería,Reparación eléctrica,111
+2536,08-jul,1562-00000080,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",MANSFIELD,10," $ 452,117.00 ",Transmisión,Ajuste de válvulas,103
+2534,08-jul,1562-00000082,M41,AF181NU,C15,AD967OI,40,"Collar, Walter (T)",EXAR,8," $ 87,278.00 ",Carrocería,Cambio de aceite,103
+2547,09-jul,1562-00000085,M37,AE325BO,C18,AE810XH,40,"Valeriano, Ariel (T)",MINERA SANTA RITA - QUIJANO,3," $ 481,148.00 ",Motor,Sustitución de frenos,183
+2546,09-jul,1562-00000086,M40,AF181NT,C21,AF066DD,40,"Guitian, Sandro (R)",LITIO M. P. MARIANA,6," $ 365,706.00 ",Frenos,Revisión de transmisión,127
+2544,09-jul,1562-00000088,M42,AF204AU,C20,AF066DC,40,"Hurtado, Fabian (T)",MINERA SANTA RITA - QUIJANO,16," $ 125,465.00 ",Suspensión,Revisión de carrocería,159
+2541,09/07/2024,1562-00000091,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",LITIO M. P. MARIANA,9," $ 472,239.00 ",Motor,Revisión de carrocería,110
+2553,10-jul,1562-00000093,M42,AF204AU,C20,AF066DC,22,"Hurtado, Fabian (T)",POSCO GUEMES,15," $ 3,301.81 ",Motor,Control de amortiguadores,110
+2552,10-jul,1562-00000095,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",LITHEA,18," $ 397,488.00 ",Motor,Ajuste de válvulas,180
+2551,10-jul,1562-00000096,M41,AF181NU,C15,AD967OI,40,"Collar, Walter (T)",GALAXY,1," $ 308,141.00 ",Motor,Ajuste de válvulas,147
+2549,10-jul,1562-00000098,M39,AF181NS,C10,IGN677,34,"Martinez, Julio",EXAR,10," $ 176,554.00 ",Carrocería,Reparación eléctrica,187
+2561,11-jul,1562-00000099,M34,AD925YJ,C13,JRI913,34,"Gallardo, Ivan",POSCO,13," $ 217,588.00 ",Motor,Sustitución de frenos,103
+2557,11-jul,1562-00000103,M38,AE354AG,C11,KYR378,34,"Fernandez, Nelson (T)",MANSFIELD,3," $ 282,769.00 ",Carrocería,Cambio de aceite,162
+2556,11-jul,1562-00000104,M37,AE325BO,C18,AE810XH,40,"Lescano, Marcos",POSCO,4," $ 253,231.00 ",Frenos,Cambio de amortiguadores,101
+2555,11-jul,1562-00000105,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",LITICA - RIO GRANDE,7," $ 402,860.00 ",Motor,Reparación eléctrica,145
+2569,12-jul,0954-00000668,M44,AF791GV,C25,AF418BR,40,"Suarez, Rolando (T)",MINERA DEL ALTIPLANO FMC,1," $ 336,765.00 ",Motor,Cambio de filtros,152
+2564,12-jul,1562-00000111,M39,AF181NS,C16,AD982PF,40,"Velazquez, Gilberto (T)",EXAR,15," $ 388,735.00 ",Transmisión,Reparación eléctrica,106
+2576,13-jul,0954-00000670,M42,AF204AU,C20,AF066DC,40,"Hurtado, Fabian (T)",MINERA DEL ALTIPLANO FMC,19," $ 89,269.00 ",Frenos,Sustitución de frenos,151
+2574,13-jul,1562-00000113,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",EXAR,14," $ 182,900.00 ",Frenos,Sustitución de frenos,194
+2573,13-jul,1562-00000114,M40,AF181NT,C21,AF066DD,40,"Guitian, Sandro (R)",MANSFIELD,5," $ 230,703.00 ",Frenos,Cambio de amortiguadores,196
+2585,14-jul,0954-00000674,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",MINERA DEL ALTIPLANO FMC,12," $ 316,636.00 ",Frenos,Cambio de amortiguadores,180
+2584,14-jul,0954-00000675,M39,AF181NS,C16,AD982PF,40,"Velazquez, Gilberto (T)",HANAQ,16," $ 400,912.00 ",Motor,Reparación eléctrica,110
+2582,14-jul,0954-00000677,M34,AD925YJ,C13,JRI913,34,"Gallardo, Ivan",MANSFIELD,17," $ 343,525.00 ",Sistema eléctrico,Revisión de transmisión,170
+2581,14-jul,0954-00000678,M38,AE354AG,C11,KYR378,34,"Fernandez, Nelson (T)",MINERA DEL ALTIPLANO FMC,13," $ 430,369.00 ",Transmisión,Reparación eléctrica,165
+2579,14-jul-24,1562-00000119,M37,AE325BO,C18,AE810XH,40,"Valeriano, Ariel (T)",MANSFIELD,17," $ 336,056.00 ",Transmisión,Cambio de amortiguadores,106
+2592,15-jul,0954-00000681,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",CORANZULI PIRQUITAS,15," $ 471,515.00 ",Motor,Cambio de amortiguadores,134
+2586,15-jul,1562-00000132,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",EXAR,13," $ 178,704.00 ",Frenos,Revisión de transmisión,198
+2597,16-jul,0954-00000684,M42,AF204AU,C20,AF066DC,40,"Gonzalez, Marcos (R)",SALES,6," $ 325,501.00 ",Transmisión,Cambio de aceite,179
+2593,16-jul,1562-00000143,M39,AF181NS,C16,AD982PF,40,"Serapio, Diego (R)",POSCO,1," $ 459,398.00 ",Transmisión,Reparación eléctrica,190
+2601,17-jul,1562-00000146,M44,AF791GV,C23,AF121YS,40,"Ramos, Andres (R)",MANSFIELD,18," $ 226,511.00 ",Transmisión,Reparación eléctrica,115
+2600,17-jul,1562-00000147,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",GALAXY,19," $ 242,904.00 ",Transmisión,Cambio de amortiguadores,188
+2609,18-jul,1562-00000152,M42,AF204AU,C20,AF066DC,40,"Gonzalez, Marcos (R)",LITHEA,3," $ 188,836.00 ",Carrocería,Cambio de filtros,156
+2608,18-jul,1562-00000153,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",MINERA DEL ALTIPLANO FMC,7," $ 247,108.00 ",Frenos,Cambio de amortiguadores,193
+2607,18-jul,1562-00000154,M38,AE354AG,C11,KYR378,34,"Fernandez, Nelson (T)",MANSFIELD,5," $ 164,992.00 ",Motor,Cambio de amortiguadores,128
+2606,18-jul,1562-00000155,M34,AD925YJ,C13,JRI913,34,"Gallardo, Ivan",ERAMINE,10," $ 383,234.00 ",Sistema eléctrico,Cambio de filtros,197
+2618,19-jul,1562-00000158,M37,AE325BO,C25,AF418BR,40,"Guitian, Sandro (R)",POSCO,15," $ 460,411.00 ",Sistema eléctrico,Revisión de transmisión,175
+2616,19-jul,1562-00000160,M41,AF181NU,C26,AG265GB,40,"Collar, Walter (T)",LITICA - RIO GRANDE,12," $ 78,641.00 ",Frenos,Sustitución de frenos,117
+2625,20-jul,1562-00000168,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",LITIO M. P. MARIANA,16," $ 141,269.00 ",Transmisión,Revisión de transmisión,125
+2624,20-jul,1562-00000169,M39,AF181NS,C16,AD982PF,40,"Acoria, Andres",LITIO M. P. MARIANA,2," $ 474,651.00 ",Motor,Revisión de transmisión,195
+2623,20/07/2024,1562-00000170,M44,AF791GV,C23,AF121YS,40,"Ramos, Andres (R)",ERAMINE,8," $ 479,012.00 ",Carrocería,Ajuste de válvulas,186
+2630,21-jul,1562-00000174,M42,AF204AU,C20,AF066DC,40,"Gonzalez, Marcos (R)",MINERA DEL ALTIPLANO FMC,19," $ 344,785.00 ",Motor,Ajuste de válvulas,166
+2627,21-jul,1562-00000177,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",POSCO,12," $ 280,374.00 ",Motor,Cambio de filtros,192
+2634,22-jul,1562-00000182,M38,AE354AG,C11,KYR378,34,"Fernandez, Nelson (T)",MANSFIELD,18," $ 428,011.00 ",Sistema eléctrico,Cambio de amortiguadores,157
+2633,22-jul,1562-00000183,M34,AD925YJ,C13,JRI913,34,"Gallardo, Ivan",POSCO,14," $ 435,092.00 ",Suspensión,Cambio de aceite,129
+2631,22-jul,1562-00000185,M41,AF181NU,C15,AD967OI,40,"Collar, Walter (T)",LITHEA,6," $ 430,263.00 ",Carrocería,Ajuste de válvulas,162
+2643,23-jul,0954-00001103,M45,AF791GW,C24,AF418BQ,40,"Ramos, Andres (R)",,17," $ 294,873.00 ",Frenos,Revisión de carrocería,154
+2642,23-jul,1562-00000187,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",GALAXY,1," $ 236,341.00 ",Transmisión,Revisión de transmisión,119
+2650,24-jul,1562-00000196,M39,AF181NS,C16,AD982PF,40,"Velazquez, Gilberto (T)",LITIO M. P. MARIANA,3," $ 471,882.00 ",Motor,Revisión de carrocería,153
+2649,24-jul,1562-00000197,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",MINERA DEL ALTIPLANO FMC,14," $ 363,251.00 ",Carrocería,Sustitución de frenos,110
+2646,24-jul,1562-00000200,M42,AF204AU,C20,AF066DC,40,"Hurtado, Fabian (T)",MINERA DEL ALTIPLANO FMC,5," $ 493,350.00 ",Carrocería,Cambio de aceite,112
+2645,24-jul,1562-00000201,M37,AE325BO,C11,KYR378,34,"Valeriano, Ariel (T)",POSCO,18," $ 277,607.00 ",Suspensión,Cambio de filtros,145
+2644,24-jul,1562-00000203,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",MINERA DEL ALTIPLANO FMC,8," $ 341,958.00 ",Motor,Ajuste de válvulas,179
+2654,25-jul,1562-00000210,M38,AE354AG,C11,KYR378,34,"Guitian, Sandro (R)",MANSFIELD,16," $ 232,825.00 ",Suspensión,Revisión de carrocería,128
+2652,25-jul,1562-00000212,M41,AF181NU,C15,AD967OI,40,"Condori, Mario (T)",POSCO,17," $ 491,213.00 ",Motor,Sustitución de frenos,161
+2671,27-jul,1562-000002025,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",MANSFIELD,15," $ 132,464.00 ",Motor,Revisión de carrocería,172
+2670,27-jul,1562-000002026,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",POSCO,4," $ 307,745.00 ",Carrocería,Revisión de carrocería,151
+2668,27-jul,1562-00000218,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",MANSFIELD,1," $ 276,300.00 ",Transmisión,Sustitución de frenos,178
+2667,27-jul,1562-00000220,M42,AF204AU,C20,AF066DC,40,"Hurtado, Fabian (T)",HANAQ,15," $ 147,766.00 ",Carrocería,Revisión de transmisión,168
+2665,27-jul,1562-00000223,M45,AF791GW,C24,AF418BQ,40,"Ramos, Andres (R)",MINERA DEL ALTIPLANO EXPANSION,7," $ 378,328.00 ",Carrocería,Sustitución de frenos,102
+2676,28-jul,1562-00000230,M37,AE325BO,C18,AE810XH,40,"Valeriano, Ariel (T)",MINERA DEL ALTIPLANO EXPANSION,10," $ 234,226.00 ",Suspensión,Revisión de transmisión,156
+2675,28-jul,1562-00000231,M39,AF181NS,C16,AD982PF,40,"Velazquez, Gilberto (T)",EXAR,12," $ 253,078.00 ",Carrocería,Sustitución de frenos,180
+2674,28-jul,1562-00000232,M41,AF181NU,C15,AD967OI,40,"Serapio, Diego (R)",CORANZULI PIRQUITAS,15," $ 391,683.00 ",Frenos,Cambio de amortiguadores,138
+2682,29-jul-24,1562-00000237,M38,AE354AG,C11,KYR378,34,"Guitian, Sandro (R)",MINERA DEL ALTIPLANO FMC,8," $ 423,375.00 ",Sistema eléctrico,Cambio de aceite,128
+2691,30-jul,1562-00000240,M42,AF204AU,C20,AF066DC,40,"Hurtado, Fabian (T)",LITIO M. P. MARIANA,9," $ 485,394.00 ",Suspensión,Ajuste de válvulas,168
+2688,30/07/2024,1562-00000243,M41,AF181NU,C15,AD967OI,40,"Serapio, Diego (R)",YAC MINERO DE AGUA DE DIONISI,15," $ 417,551.00 ",Frenos,Cambio de amortiguadores,119
+2687,30-jul,1562-00000244,M45,AF791GW,C24,AF418BQ,40,"Ramos, Andres (R)",MANSFIELD,5," $ 238,337.00 ",Sistema eléctrico,Revisión de transmisión,124
+2698,31-jul,1562-00000248,M39,AF181NS,C16,AD982PF,40,"Velazquez, Gilberto (T)",LITHEA,11," $ 352,209.00 ",Carrocería,Cambio de aceite,185
+2696,31-jul,1562-00000250,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",LITIO M. P. MARIANA,17," $ 493,888.00 ",Sistema eléctrico,Sustitución de frenos,108
+2704,01-ago,1562-00000254,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",POSCO,15," $ 391,036.00 ",Frenos,Cambio de filtros,181
+2701,01-ago,1562-00000257,M43,AF192NQ,C25,AF418BR,40,"Gonzalez, Marcos (R)",MINERA DEL ALTIPLANO FMC,12," $ 166,920.00 ",Motor,Ajuste de válvulas,107
+2707,02-ago,1562-00000263,M45,AF791GW,C24,AF418BQ,40,"Ramos, Andres (R)",MINERA DEL ALTIPLANO FMC,17," $ 170,889.00 ",Suspensión,Sustitución de frenos,158
+2706,02-ago,1562-00000264,M38,AE354AG,C11,KYR378,34,"Fernandez, Nelson (T)",MINERA DEL ALTIPLANO FMC,11," $ 499,245.00 ",Sistema eléctrico,Revisión de carrocería,177
+2705,02-ago,1562-00000265,M37,AE325BO,C18,AE810XH,40,"Valeriano, Ariel (T)",CORANZULI PIRQUITAS,12," $ 265,079.00 ",Suspensión,Cambio de aceite,160
+2720,03-ago,1562-00000266,M39,AF181NS,C13,JRI913,34,"Veleizan, Carlos",ERAMINE,8," $ 477,608.00 ",Sistema eléctrico,Cambio de amortiguadores,120
+2713,03-ago,1562-00000273,M42,AF204AU,C10,IGN677,34,"Hurtado, Fabian (T)",CHINCHILLAS PIRQUITAS,5," $ 401,068.00 ",Sistema eléctrico,Cambio de amortiguadores,168
+2712,03-ago,1562-00000274,M42,AF204AU,C10,IGN677,,"Hurtado, Fabian (T)",CHINCHILLAS PIRQUITAS,16," $ 235,921.00 ",Motor,Revisión de transmisión,167
+2711,03-ago,1562-00000275,M34,AD925YJ,C02,JBX699,30,"Gallardo, Ivan",POSCO,19," $ 58,777.00 ",Transmisión,Revisión de transmisión,157
+2724,04-ago,1562-00000277,M43,AF192NQ,C25,AF418BR,40,"Gonzalez, Marcos (R)",SALES,14," $ 478,330.00 ",Carrocería,Revisión de carrocería,118
+2721,04-ago,1562-00000280,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",YAC MINERO DE AGUA DE DIONISI,18," $ 290,143.00 ",Suspensión,Revisión de transmisión,149
+2731,05-ago,1562-00000283,M42,AF204AU,C20,AF066DC,40,"Hurtado, Fabian (T)",HANAQ,7," $ 180,686.00 ",Carrocería,Revisión de carrocería,194
+2728,05-ago,1562-00000286,M45,AF791GW,C24,AF418BQ,40,"Ramos, Andres (R)",CORANZULI PIRQUITAS,15," $ 152,653.00 ",Suspensión,Revisión de carrocería,142
+2726,05-ago,1562-00000288,M38,AE354AG,C11,KYR378,34,"Fernandez, Nelson (T)",MINERA DEL ALTIPLANO FMC,9," $ 106,945.00 ",Sistema eléctrico,Ajuste de válvulas,166
+2739,06-ago,1562-00000289,M37,AE325BO,C18,AE810XH,40,"Valeriano, Ariel (T)",MINERA SANTA RITA - QUIJANO,18," $ 186,967.00 ",Sistema eléctrico,Reparación eléctrica,194
+2736,06-ago,1562-00000292,M39,AF181NS,C13,JRI913,34,"Velazquez, Gilberto (T)",MINERA DEL ALTIPLANO FMC,15," $ 53,772.00 ",Carrocería,Cambio de aceite,198
+2735,06-ago,1562-00000293,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",GALAXY,1," $ 445,428.00 ",Sistema eléctrico,Ajuste de válvulas,125
+2734,06-ago,1562-00000294,M40,AF181NT,C21,AF066DD,40,"Serapio, Diego (R)",ERAMINE,18," $ 476,153.00 ",Suspensión,Cambio de aceite,114
+2733,06-ago,1562-00000295,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",POSCO,2," $ 408,472.00 ",Suspensión,Revisión de carrocería,160
+2748,07-ago,1562-00000298,M42,AF204AU,C13,JRI913,34,"Hurtado, Fabian (T)",MANSFIELD,3," $ 425,717.00 ",Suspensión,Reparación eléctrica,106
+2751,08-ago,1562-00000310,M37,AE325BO,C18,AE810XH,40,"Guitian, Sandro (R)",MANSFIELD,3," $ 98,857.00 ",Suspensión,Revisión de carrocería,176
+2749,08-ago,1562-00000312,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",LITHEA,11," $ 254,542.00 ",Transmisión,Cambio de amortiguadores,178
+2760,09-ago,1562-00000313,M39,AF181NS,C13,JRI913,34,"Velazquez, Gilberto (T)",ERAMINE,11," $ 191,264.00 ",Sistema eléctrico,Reparación eléctrica,106
+2758,09-ago,1562-00000315,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",MINERA SANTA RITA - QUIJANO,11," $ 270,973.00 ",Suspensión,Ajuste de válvulas,144
+2754,09-ago,1562-00000320,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",POSCO,1," $ 324,699.00 ",Suspensión,Ajuste de válvulas,107
+2765,10-ago,1562-00000325,M41,AF181NU,C15,AD967OI,40,"Collar, Walter (T)",MINERA DEL ALTIPLANO FMC,12," $ 227,536.00 ",Carrocería,Sustitución de frenos,190
+2762,10-ago,1562-00000328,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",YAC MINERO DE AGUA DE DIONISI,6," $ 175,691.00 ",Motor,Cambio de aceite,174
+2778,11-ago,1562-00000330,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",LITICA - RIO GRANDE,5," $ 288,548.00 ",Motor,Cambio de filtros,159
+2773,11-ago,1562-00000336,M40,AF181NT,C21,AF066DD,40,"Ramon, Luis (T)",POSCO,13," $ 354,006.00 ",Motor,Reparación eléctrica,164
+2769,11-ago,1562-00000340,M37,AE325BO,C18,AE810XH,40,"Guitian, Sandro (R)",MINERA SANTA RITA - QUIJANO,15," $ 400,128.00 ",Sistema eléctrico,Revisión de transmisión,178
+2783,12-ago,1562-00000343,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",MINERA DEL ALTIPLANO EXPANSION,17," $ 357,771.00 ",Motor,Cambio de filtros,134
+2781,12-ago,1562-00000345,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",LITIO M. P. MARIANA,10," $ 293,200.00 ",Sistema eléctrico,Ajuste de válvulas,119
+2780,12-ago,1562-00000346,M38,AE354AG,C11,KYR378,34,"Fernandez, Nelson (T)",ERAMINE,16," $ 273,139.00 ",Transmisión,Cambio de aceite,153
+2779,12-ago,1562-00000360,M42,AF204AU,C10,IGN677,34,"Veleizan, Carlos",HANAQ,14," $ 142,514.00 ",Sistema eléctrico,Reparación eléctrica,148
+2788,13-ago,1562-00000354,M34,AD925YJ,C02,JBX699,30,"Gallardo, Ivan",MANSFIELD,15," $ 393,826.00 ",Carrocería,Reparación eléctrica,151
+2787,13-ago-24,1562-00000355,M39,AF181NS,C10,IGN677,34,"Velazquez, Gilberto (T)",MINERA DEL ALTIPLANO FMC,12," $ 382,282.00 ",Carrocería,Revisión de transmisión,119
+2798,14-ago,1562-00000359,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",LITHEA,8," $ 82,338.00 ",Transmisión,Cambio de aceite,118
+2795,14-ago,1562-00000364,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",GALAXY,3," $ 340,558.00 ",Sistema eléctrico,Sustitución de frenos,141
+2806,15-ago,1562-00000366,M41,AF181NU,C22,AF121YK,40,"Collar, Walter (T)",LITIO M. P. MARIANA,15," $ 477,531.00 ",Motor,Cambio de filtros,143
+2805,15-ago,1562-00000367,M44,AF791GV,C23,AF121YS,40,"Ramos, Andres (R)",SALES,9," $ 96,304.00 ",Sistema eléctrico,Sustitución de frenos,141
+2804,15-ago,1562-00000368,M37,AE325BO,C18,AE810XH,40,"Valeriano, Ariel (T)",ERAMINE,8," $ 148,641.00 ",Suspensión,Revisión de transmisión,113
+2813,16-ago,1562-00000371,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",LITIO M. P. MARIANA,2," $ 437,786.00 ",Motor,Cambio de filtros,159
+2809,16-ago,1562-00000376,M39,AF181NS,C13,IGN677,34,"Serapio, Diego (R)",GALAXY,8," $ 460,716.00 ",Sistema eléctrico,Ajuste de válvulas,145
+2807,16-ago,1562-00000378,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",ERAMINE,3," $ 196,904.00 ",Carrocería,Reparación eléctrica,197
+2821,17-ago,1562-00000382,M44,AF791GV,C23,AF121YS,40,"Ramos, Andres (R)",POSCO,10," $ 323,269.00 ",Carrocería,Revisión de carrocería,167
+2818,17-ago,1562-00000385,M42,AF204AU,C10,JRI913,34,"Gonzalez, Marcos (R)",HANAQ,9," $ 180,344.00 ",Motor,Reparación eléctrica,190
+2815,17-ago,1562-00000388,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",LITHEA,6," $ 144,725.00 ",Carrocería,Revisión de carrocería,178
+2826,18-ago,1562-00000392,M38,AE354AG,C11,KYR378,34,"Guitian, Sandro (R)",POSCO,7," $ 109,189.00 ",Sistema eléctrico,Cambio de amortiguadores,171
+2826,18-ago,1562-00000392,M38,AE354AG,C11,KYR378,34,"Guitian, Sandro (R)",POSCO,7," $ 109,189.00 ",Sistema eléctrico,Cambio de amortiguadores,171
+2836,19-ago,1562-00000393,M39,AF181NS,C10,IGN677,34,"Serapio, Diego (R)",ERAMINE,2," $ 433,072.00 ",Suspensión,Cambio de aceite,192
+2834,19-ago,1562-00000395,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",LITIO M. P. MARIANA,13," $ 302,395.00 ",Motor,Revisión de transmisión,121
+2833,19-ago,1562-00000396,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",LITIO M. P. MARIANA,1," $ 103,924.00 ",Carrocería,Ajuste de válvulas,123
+2829,19-ago,1562-00000400,M44,AF791GV,C23,AF121YS,40,"Ramos, Andres (R)",GANFENG LITIO ARG S.A ( INCAHUASI ),12," $ 251,474.00 ",Motor,Revisión de carrocería,106
+2828,19-ago,1562-00000401,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",MANSFIELD,18," $ 119,981.00 ",Transmisión,Sustitución de frenos,108
+2845,20-ago,1562-00000403,M38,AE354AG,C11,KYR378,34,"Guitian, Sandro (R)",POSCO,8," $ 154,445.00 ",Sistema eléctrico,Sustitución de frenos,124
+2842,20-ago,1562-00000406,M42,AF204AU,C13,JRI913,34,"Hurtado, Fabian (T)",POSCO,14," $ 371,840.00 ",Sistema eléctrico,Cambio de aceite,186
+2859,22-ago,1562-00000420,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",LITIO M. P. MARIANA,5," $ 170,001.00 ",Transmisión,Cambio de aceite,148
+2855,22-ago,1562-00000424,M39,AF181NS,C10,IGN677,34,"Velazquez, Gilberto (T)",MANSFIELD,6," $ 488,598.00 ",Motor,Cambio de amortiguadores,111
+2854,22-ago,1562-00000425,M45,AF791GW,C24,AF418BQ,40,"Serapio, Diego (R)",LITIO M. P. MARIANA,17," $ 261,439.00 ",Carrocería,Revisión de carrocería,120
+2853,22-ago,1562-00000426,M37,AE325BO,C18,AE810XH,40,"Valeriano, Ariel (T)",GALAXY,3," $ 438,781.00 ",Sistema eléctrico,Cambio de aceite,102
+2863,23-ago,1562-00000429,M42,AF204AU,C13,JRI913,34,"Hurtado, Fabian (T)",LITHEA,7," $ 267,049.00 ",Suspensión,Cambio de filtros,133
+2860,23-ago,1562-00000435,M41,AF181NU,C22,AF121YK,40,"Veleizan, Carlos",POSCO,6," $ 83,948.00 ",Motor,Cambio de amortiguadores,136
+2867,24-ago,1562-00000442,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",CHINCHILLAS PIRQUITAS,1," $ 313,296.00 ",Transmisión,Sustitución de frenos,188
+2866,24-ago,1562-00000443,M43,AF192NQ,C25,AF418BR,,"Arroyo, Mario (T)",CHINCHILLAS PIRQUITAS,2," $ 450,031.00 ",Transmisión,Reparación eléctrica,171
+2865,24-ago,1562-00000444,M38,AE354AG,C11,KYR378,34,"Fernandez, Nelson (T)",POSCO,10," $ 450,357.00 ",Suspensión,Ajuste de válvulas,150
+2876,25-ago,1562-00000446,M39,AF181NS,C10,IGN677,34,"Velazquez, Gilberto (T)",ERAMINE,19," $ 101,291.00 ",Sistema eléctrico,Revisión de transmisión,156
+2883,26-ago,1562-00000452,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",CORANZULI PIRQUITAS,13," $ 150,201.00 ",Transmisión,Revisión de carrocería,151
+2880,26-ago,1562-00000455,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",EXAR,11," $ 245,612.00 ",Motor,Revisión de transmisión,140
+2879,26-ago,1562-00000456,M37,AE325BO,C18,AE810XH,40,"Valeriano, Ariel (T)",MANSFIELD,6," $ 412,513.00 ",Motor,Revisión de transmisión,132
+2878,26-ago,1562-00000457,M41,AF181NU,C22,AF121YK,40,"Veleizan, Carlos",LITIO M. P. MARIANA,4," $ 311,428.00 ",Frenos,Revisión de carrocería,190
+2877,26-ago,1562-00000460,M45,AF791GW,C24,AF418BQ,40,"Serapio, Diego (R)",LITIO M. P. MARIANA,16," $ 432,269.00 ",Suspensión,Revisión de transmisión,167
+2886,26-ago,,M42,AF204AU,C13,JRI913,34,"Hurtado, Fabian (T)",POSCO,10," $ 205,230.00 ",Suspensión,Revisión de transmisión,105
+2887,27-ago,1562-00000469,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",ERAMINE,16," $ 494,122.00 ",Motor,Cambio de amortiguadores,130
+2901,28-ago,1562-00000470,M39,AF181NS,C10,IGN677,34,"Velazquez, Gilberto (T)",MINERA DEL ALTIPLANO FMC,4," $ 461,278.00 ",Motor,Cambio de filtros,136
+2896,28-ago,1562-00000475,M34,AD925YJ,C27,AG265GC,40,"Lescano, Marcos",POSCO,14," $ 351,689.00 ",Carrocería,Revisión de carrocería,104
+2893,28-ago,1562-00000478,M38,AE354AG,C11,KYR378,34,"Fernandez, Nelson (T)",MANSFIELD,14," $ 120,333.00 ",Carrocería,Reparación eléctrica,175
+2906,29-ago,1562-00000480,M42,AF204AU,C13,JRI913,34,"Vilte, walter (R)",GALAXY,18," $ 81,798.00 ",Frenos,Cambio de aceite,142
+2904,29-ago,1562-00000482,M37,AE325BO,C18,AE810XH,40,"Guitian, Sandro (R)",ERAMINE,6," $ 378,069.00 ",Motor,Cambio de amortiguadores,187
+2913,30-ago,1562-00000485,M43,AF192NQ,C25,AF418BR,40,"Gonzalez, Marcos (R)",MINERA DEL ALTIPLANO EXPANSION,13," $ 293,607.00 ",Carrocería,Revisión de transmisión,174
+2911,30-ago,1562-00000487,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",MANSFIELD,14," $ 492,021.00 ",Motor,Cambio de amortiguadores,169
+2910,30-ago,1562-00000488,M40,AF181NT,C21,AF066DD,40,"Serapio, Diego (R)",LITHEA,13," $ 214,453.00 ",Motor,Reparación eléctrica,197
+2924,31-ago,1562-00000493,M39,AF181NS,C10,IGN677,34,"Velazquez, Gilberto (T)",POSCO,3," $ 243,192.00 ",Frenos,Cambio de aceite,140
+2919,31-ago,1562-00000498,M38,AE354AG,C11,KYR378,34,"Fernandez, Nelson (T)",POSCO,16," $ 363,643.00 ",Motor,Revisión de carrocería,172
+2918,31/08/2024,1562-00000499,M34,AD925YJ,C02,JBX699,30,"Gallardo, Ivan",MINERA DEL ALTIPLANO FMC,16," $ 394,578.00 ",Transmisión,Cambio de aceite,163
+2916,31-ago,1562-00000501,M41,AF181NU,C27,AG265GC,40,"Veleizan, Carlos",MINERA DEL ALTIPLANO FMC,10," $ 484,796.00 ",Motor,Sustitución de frenos,113
+2914,31-ago,1562-00000503,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",ERAMINE,14," $ 300,610.00 ",Transmisión,Cambio de aceite,147
+2928,01-sep-24,1562-00000504,M40,AF181NT,C21,AF066DD,40,"Andrada, Hugo (R)",POSCO,17," $ 360,259.00 ",Motor,Sustitución de frenos,169
+2936,02-sep,1562-00000510,M45,AF791GW,C21,AF066DD,40,"Ramos, Pablo (T)",LITIO M. P. MARIANA,16," $ 336,601.00 ",Frenos,Cambio de filtros,184
+2934,02-sep,1562-00000512,M39,AF181NS,C10,IGN677,34,"Velazquez, Gilberto (T)",POSCO,19," $ 86,271.00 ",Sistema eléctrico,Revisión de transmisión,128
+2933,02-sep,1562-00000513,M43,AF192NQ,C20,AF066DC,40,"Gonzalez, Marcos (R)",LITIO M. P. MARIANA,8," $ 102,131.00 ",Carrocería,Reparación eléctrica,135
+2930,02-sep,1562-00000516,M37,AE325BO,C18,AE810XH,40,"Martinez, Julio",MANSFIELD,5," $ 204,432.00 ",Suspensión,Cambio de amortiguadores,120
+2945,03-sep,1562-00000519,M38,AE354AG,C11,KYR378,34,"Fernandez, Nelson (T)",POSCO,2," $ 447,787.00 ",Transmisión,Cambio de amortiguadores,118
+2944,03-sep,1562-00000520,M41,AF181NU,C27,AG265GC,40,"Andrada, Hugo (R)",MINERA SANTA RITA - QUIJANO,2," $ 167,059.00 ",Sistema eléctrico,Cambio de filtros,151
+2942,03-sep,1562-00000522,M40,AF181NT,C26,AG265GB,40,"Alfaro, Sergio (T)",HANAQ,14," $ 434,119.00 ",Suspensión,Revisión de carrocería,162
+2940,03-sep,1562-00000524,M34,AD925YJ,C02,JBX699,30,"Gallardo, Ivan",MINERA DEL ALTIPLANO FMC,6," $ 403,896.00 ",Carrocería,Reparación eléctrica,167
+2938,03-sep,1562-00000526,M42,AF204AU,C13,JRI913,34,"Hurtado, Fabian (T)",MANSFIELD,17," $ 135,041.00 ",Sistema eléctrico,Cambio de amortiguadores,128
+2948,04-sep,1562-00000529,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",LITHEA,16," $ 392,870.00 ",Transmisión,Sustitución de frenos,197
+2957,05-sep,1562-00000533,M39,AF181NS,C10,IGN677,34,"Velazquez, Gilberto (T)",POSCO,5," $ 109,790.00 ",Transmisión,Revisión de carrocería,112
+2950,05-sep,1562-00000542,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",CORANZULI PIRQUITAS,13," $ 254,474.00 ",Motor,Sustitución de frenos,194
+2964,06-sep,1562-00000543,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",PECOM,1," $ 215,277.00 ",Carrocería,Cambio de amortiguadores,119
+2963,06-sep,1562-00000544,M38,AE354AG,C11,KYR378,34,"Fernandez, Nelson (T)",SALES,16," $ 234,506.00 ",Frenos,Sustitución de frenos,167
+2961,06-sep,1562-00000546,M34,AD925YJ,C02,JBX699,30,"Gallardo, Ivan",CORANZULI PIRQUITAS,1," $ 314,261.00 ",Carrocería,Cambio de amortiguadores,129
+2960,06-sep,1562-00000547,M37,AE325BO,C18,AE810XH,40,"Martinez, Julio",POSCO,3," $ 398,200.00 ",Motor,Cambio de filtros,183
+2959,06-sep,1562-00000548,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",LITIO M. P. MARIANA,3," $ 454,842.00 ",Suspensión,Ajuste de válvulas,189
+2971,07-sep,1562-00000552,M42,AF204AU,C03,KBB631,33,"Hurtado, Fabian (T)",POSCO,14," $ 229,561.00 ",Carrocería,Ajuste de válvulas,138
+2970,07-sep,1562-00000553,M39,AF181NS,C10,IGN677,34,"Martin, Franco",LITHEA,1," $ 437,297.00 ",Suspensión,Cambio de aceite,119
+2968,07-sep,1562-00000555,M44,AF791GV,C23,AF121YS,28,"Suarez, Rolando (T)",CHINCHILLAS PIRQUITAS,9," $ 346,547.00 ",Sistema eléctrico,Reparación eléctrica,133
+2967,07-sep,1562-00000556,M44,AF791GV,C23,AF121YS,12,"Suarez, Rolando (T)",CHINCHILLAS PIRQUITAS,3," $ 374,257.00 ",Suspensión,Revisión de transmisión,156
+2976,08-sep,1562-00000566,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",CORANZULI PIRQUITAS,2," $ 138,252.00 ",Suspensión,Revisión de transmisión,188
+2985,09-sep,1562-00000571,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",CHINCHILLAS PIRQUITAS,2," $ 148,468.00 ",Suspensión,Cambio de amortiguadores,164
+2984,09-sep,1562-00000573,M37,AE325BO,C18,AE810XH,40,"Collar, Walter (T)",MINERA DEL ALTIPLANO EXPANSION,2," $ 430,002.00 ",Carrocería,Revisión de transmisión,132
+2993,10-sep,1562-00000575,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",GALAXY,16," $ 444,214.00 ",Suspensión,Sustitución de frenos,185
+2998,11-sep,1562-00000584,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",ERAMINE,16," $ 226,202.00 ",Sistema eléctrico,Cambio de amortiguadores,116
+2996,11-sep,1562-00000586,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",LITIO M. P. MARIANA,19," $ 135,097.00 ",Motor,Cambio de amortiguadores,101
+2995,11-sep,1562-00000587,M42,AF204AU,C13,JRI913,34,"Gonzalez, Marcos (R)",POSCO,15," $ 123,973.00 ",Carrocería,Cambio de aceite,169
+2994,11-sep,1562-00000588,M34,AD925YJ,C02,JBX699,30,"Gallardo, Ivan",MANSFIELD,18," $ 68,127.00 ",Motor,Reparación eléctrica,146
+3006,12-sep,1562-00000594,M39,AF181NS,C10,IGN677,34,"Velazquez, Gilberto (T)",HANAQ,9," $ 114,129.00 ",Transmisión,Revisión de carrocería,132
+3002,12-sep,1562-00000626,M44,AF791GV,C23,AF121YS,40,"Reales, Manuel (T)",MANUFACTURA LOS ANDES (QUIJANO),8," $ 332,997.00 ",Motor,Cambio de aceite,169
+3017,13-sep,1562-00000599,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",MINERA DEL ALTIPLANO FMC,10," $ 300,384.00 ",Suspensión,Revisión de carrocería,153
+3015,13-sep,1562-00000601,M37,AE325BO,C18,AE810XH,40,"Collar, Walter (T)",POSCO,10," $ 352,145.00 ",Motor,Revisión de transmisión,188
+3012,13-sep,1562-00000604,M44,AF791GV,C23,AF121YS,40,"Reales, Manuel (T)",LITIO M. P. MARIANA,5," $ 314,260.00 ",Motor,Cambio de filtros,183
+3023,14-sep,1562-00000606,M39,AF181NS,C10,IGN677,34,"Velazquez, Gilberto (T)",MINERA DEL ALTIPLANO FMC,14," $ 370,417.00 ",Sistema eléctrico,Cambio de aceite,186
+3021,14-sep,1562-00000608,M34,AD925YJ,C02,JBX699,30,"Lescano, Marcos",MANSFIELD,2," $ 262,727.00 ",Transmisión,Sustitución de frenos,191
+3020,14-sep,1562-00000609,M42,AF204AU,C13,JRI913,34,"Gonzalez, Marcos (R)",MINERA DEL ALTIPLANO FMC,19," $ 146,860.00 ",Frenos,Ajuste de válvulas,188
+3019,14/09/2024,1562-00000610,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",POSCO,13," $ 326,310.00 ",Sistema eléctrico,Cambio de filtros,145
+3038,16-sep,1562-00000623,M45,AF791GW,C23,AF121YS,40,"Ramos, Pablo (T)",MANSFIELD,17," $ 86,396.00 ",Suspensión,Reparación eléctrica,133
+3037,16-sep,1562-00000624,M37,AE325BO,C18,AE810XH,40,"Collar, Walter (T)",POSCO,4," $ 305,182.00 ",Transmisión,Cambio de amortiguadores,108
+3036,16-sep,1562-00000625,M39,AF181NS,C10,IGN677,34,"Velazquez, Gilberto (T)",LITHEA,3," $ 444,241.00 ",Motor,Cambio de amortiguadores,187
+3034,16-sep,1562-00000628,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",MANUFACTURA LOS ANDES (QUIJANO),6," $ 135,877.00 ",Frenos,Sustitución de frenos,117
+3047,17-sep,1562-00000631,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",MANUFACTURA LOS ANDES (QUIJANO),4," $ 312,474.00 ",Transmisión,Cambio de aceite,177
+3044,17-sep,1562-00000634,M42,AF204AU,C13,JRI913,34,"Hurtado, Fabian (T)",MANSFIELD,3," $ 228,603.00 ",Transmisión,Revisión de carrocería,158
+3043,17-sep,1562-00000635,M44,AF791GV,C23,AF121YS,40,"Reales, Manuel (T)",MINERA DEL ALTIPLANO FMC,5," $ 133,306.00 ",Frenos,Revisión de transmisión,103
+3052,18-sep,1562-00000638,M39,AF181NS,C27,AG265GC,40,"Velazquez, Gilberto (T)",MINERA DEL ALTIPLANO FMC,12," $ 295,904.00 ",Frenos,Revisión de transmisión,145
+3051,18-sep,1562-00000639,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",MINERA DEL ALTIPLANO FMC,7," $ 68,810.00 ",Carrocería,Revisión de carrocería,197
+3049,18-sep,1562-00000641,M41,AF181NU,C22,AF121YK,40,"Ramon, Luis (T)",LITIO M. P. MARIANA,4," $ 277,618.00 ",Transmisión,Sustitución de frenos,170
+3048,18-sep,1562-00000642,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",LITIO M. P. MARIANA,3," $ 251,475.00 ",Transmisión,Sustitución de frenos,147
+3058,19-sep,1562-00000647,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",MINERA DEL ALTIPLANO EXPANSION,1," $ 152,993.00 ",Motor,Cambio de filtros,132
+3057,19-sep,1562-00000648,M45,AF791GW,C24,AF418BQ,40,"Martinez, Julio",MANSFIELD,5," $ 296,408.00 ",Carrocería,Cambio de filtros,197
+3062,20-sep,1562-00000657,M37,AE325BO,C18,AE810XH,40,"Sarapura, Favio",POSCO,10," $ 202,374.00 ",Frenos,Revisión de carrocería,165
+3072,21-sep,1562-00000658,M42,AF204AU,C13,JRI913,34,"Hurtado, Fabian (T)",POSCO,8," $ 362,897.00 ",Transmisión,Revisión de carrocería,176
+3071,21-sep,1562-00000659,M39,AF181NS,C27,AG265GC,40,"Velazquez, Gilberto (T)",ERAMINE,11," $ 381,592.00 ",Suspensión,Ajuste de válvulas,101
+3070,21-sep,1562-00000660,M43,AF192NQ,C25,AF418BR,40,"Arroyo, Mario (T)",GALAXY,3," $ 305,198.00 ",Suspensión,Revisión de transmisión,103
+3069,21-sep,1562-00000661,M38,AE354AG,C26,AG265GB,40,"Fernandez, Nelson (T)",POSCO,9," $ 413,971.00 ",Motor,Revisión de transmisión,123
+3080,22-sep,1562-00000662,M41,AF181NU,C22,AF121YK,40,"Ramon, Luis (T)",LITHEA,14," $ 71,235.00 ",Frenos,Revisión de carrocería,189
+3079,22-sep,1562-00000663,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",POSCO,17," $ 472,209.00 ",Transmisión,Cambio de amortiguadores,139
+3090,23-sep,1562-00000670,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",HANAQ,19," $ 265,096.00 ",Motor,Cambio de amortiguadores,108
+3084,23-sep,1562-00000676,M45,AF791GW,C24,AF418BQ,40,"Martinez, Julio",MANUFACTURA LOS ANDES (QUIJANO),6," $ 216,769.00 ",Motor,Revisión de carrocería,115
+3096,24-sep,1562-00000681,M37,AE325BO,C18,AE810XH,40,"Collar, Walter (T)",MANUFACTURA LOS ANDES (QUIJANO),16," $ 295,920.00 ",Motor,Cambio de amortiguadores,144
+3093,24-sep,1562-00000684,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",ERAMINE,19," $ 255,770.00 ",Frenos,Revisión de carrocería,141
+3091,24-sep-24,1562-00000686,M39,AF181NS,C27,AG265GC,40,"Velazquez, Gilberto (T)",POSCO,12," $ 403,612.00 ",Transmisión,Revisión de carrocería,174
+3104,25-sep,1562-00000689,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",POSCO,7," $ 179,532.00 ",Frenos,Cambio de amortiguadores,157
+3103,25-sep,1562-00000690,M41,AF181NU,C22,AF121YK,40,"Ramon, Luis (T)",MINERA DEL ALTIPLANO FMC,4," $ 478,290.00 ",Motor,Reparación eléctrica,140
+3102,25-sep,1562-00000691,M37,AE325BO,C18,AE810XH,40,"Collar, Walter (T)",MINERA DEL ALTIPLANO FMC,7," $ 403,205.00 ",Transmisión,Revisión de transmisión,111
+3113,26-sep,1562-00000696,M43,AF192NQ,C25,AF418BR,40,"Reales, Manuel (T)",LITHEA,5," $ 375,507.00 ",Suspensión,Reparación eléctrica,159
+3111,26-sep,1562-00000698,M40,AF181NT,C21,AF066DD,40,"Gonzalez, Marcos (R)",ERAMINE,13," $ 308,055.00 ",Sistema eléctrico,Cambio de filtros,163
+3109,26-sep,1562-00000700,M38,AE354AG,C26,AG265GB,28,"Fernandez, Nelson (T)",CHINCHILLAS PIRQUITAS,9," $ 395,889.00 ",Carrocería,Reparación eléctrica,148
+3108,26-sep,1562-00000701,M38,AE354AG,C26,AG265GB,12,"Fernandez, Nelson (T)",CHINCHILLAS PIRQUITAS,14," $ 426,275.00 ",Sistema eléctrico,Ajuste de válvulas,151
+3107,26-sep,1562-00000702,M42,AF204AU,C17,AE810XG,40,"Hurtado, Fabian (T)",LITIO M. P. MARIANA,18," $ 122,816.00 ",Motor,Sustitución de frenos,195
+3119,27-sep,1562-00000703,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",LITIO M. P. MARIANA,16," $ 339,500.00 ",Carrocería,Revisión de carrocería,143
+3120,28-sep,1562-00000711,M38,AE354AG,C26,AG265GB,40,"Chauqui, Diego (T)",MANSFIELD,12," $ 202,827.00 ",Suspensión,Cambio de amortiguadores,130
+3126,29-sep,1562-00000713,M40,AF181NT,C21,AF066DD,40,"Gonzalez, Marcos (R)",HANAQ,10," $ 293,863.00 ",Transmisión,Cambio de amortiguadores,109
+3125,29-sep,1562-00000714,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",ERAMINE,13," $ 281,079.00 ",Carrocería,Revisión de transmisión,127
+3124,29-sep,1562-00000715,M41,AF181NU,C22,AF121YK,40,"Ramon, Luis (T)",MINERA DEL ALTIPLANO FMC,14," $ 463,048.00 ",Suspensión,Sustitución de frenos,143
+3123,29-sep,1562-00000716,M43,AF192NQ,C25,AF418BR,40,"Reales, Manuel (T)",POSCO,14," $ 294,258.00 ",Frenos,Cambio de amortiguadores,182
+3129,30-sep,1562-00000720,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",GALAXY,15," $ 147,262.00 ",Motor,Cambio de filtros,114
+3134,01-oct,1562-00000726,M38,AE354AG,C17,AE810XG,40,"Collar, Walter (T)",PECOM,2," $ 292,528.00 ",Motor,Revisión de carrocería,179
+3144,02-oct,1562-00000727,M41,AF181NU,C22,AF121YK,40,"Condori, Mario (T)",MINERA DEL ALTIPLANO EXPANSION,2," $ 212,558.00 ",Suspensión,Reparación eléctrica,125
+3141,02-oct,1562-00000730,M42,AF204AU,C27,AG265GC,40,"Ramon, Luis (T)",SALES,4," $ 130,824.00 ",Frenos,Revisión de carrocería,187
+3140,02-oct,1562-00000732,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",ERAMINE,19," $ 262,356.00 ",Suspensión,Cambio de amortiguadores,131
+3139,02-oct,1562-00000733,M43,AF192NQ,C25,AF418BR,40,"Gallardo, Ivan",CHINCHILLAS PIRQUITAS,12," $ 139,686.00 ",Transmisión,Revisión de transmisión,178
+3148,03-oct,1562-00000736,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",GANFENG LITIO ARG S.A ( INCAHUASI ),11," $ 408,900.00 ",Carrocería,Revisión de carrocería,180
+3147,03-oct,1562-00000737,M37,AE325BO,C10,IGN677,34,"Fernandez, Nelson (T)",LITHEA,15," $ 253,137.00 ",Motor,Revisión de carrocería,111
+3145,03-oct,1562-00000739,M44,AF791GV,C25,AF418BR,40,"Vilte, walter (R)",LITIO M. P. MARIANA,12," $ 429,876.00 ",Motor,Cambio de filtros,125
+3154,04-oct,1562-00000744,M42,AF204AU,C26,AG265GB,40,"Ramon, Luis (T)",SALES,11," $ 425,372.00 ",Frenos,Cambio de aceite,167
+3153,04-oct,1562-00000745,M43,AF192NQ,C25,AF418BR,40,"Gallardo, Ivan",ERAMINE,3," $ 495,976.00 ",Transmisión,Cambio de amortiguadores,153
+3162,05-oct,1562-00000750,M41,AF181NU,C22,AF121YK,40,"Condori, Mario (T)",CORANZULI PIRQUITAS,17," $ 432,754.00 ",Sistema eléctrico,Ajuste de válvulas,178
+3170,06-oct,1562-00000754,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",HANAQ,4," $ 490,341.00 ",Transmisión,Cambio de filtros,177
+3168,06-oct,1562-00000756,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",POSCO,10," $ 480,243.00 ",Frenos,Cambio de amortiguadores,121
+3167,06-oct,1562-00000757,M42,AF204AU,C26,AG265GB,40,"Ramon, Luis (T)",CORANZULI PIRQUITAS,15," $ 222,801.00 ",Sistema eléctrico,Reparación eléctrica,114
+3166,06-oct,1562-00000758,M37,AE325BO,C10,IGN677,6,"Fernandez, Nelson (T)",PUNA MINING,1," $ 226,313.00 ",Suspensión,Ajuste de válvulas,190
+3165,06-oct,1562-00000759,M37,AE325BO,C10,IGN677,28,"Fernandez, Nelson (T)",PUNA MINING,9," $ 135,233.00 ",Frenos,Cambio de aceite,157
+3175,07-oct,1562-00000762,M44,AF791GV,C25,AF418BR,40,"Vilte, walter (R)",ERAMINE,2," $ 305,534.00 ",Motor,Reparación eléctrica,142
+3185,08-oct,1562-00000767,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",MANUFACTURA LOS ANDES (QUIJANO),8," $ 99,775.00 ",Carrocería,Cambio de filtros,131
+3180,08-oct,1562-00000772,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",BORAX QUIJANO,4," $ 71,117.00 ",Sistema eléctrico,Reparación eléctrica,100
+3178,08-oct,1562-00000774,M42,AF204AU,C26,AG265GB,40,"Gonzalez, Marcos (R)",POSCO,15," $ 474,875.00 ",Frenos,Sustitución de frenos,198
+3189,09-oct,1562-00000777,M38,AE354AG,C18,AE810XH,40,"Collar, Walter (T)",MANUFACTURA LOS ANDES (QUIJANO),12," $ 389,764.00 ",Motor,Cambio de filtros,137
+3188,09-oct,1562-00000778,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",BORAX QUIJANO,18," $ 231,855.00 ",Frenos,Cambio de aceite,164
+3187,09-oct,1562-00000779,M43,AF192NQ,C25,AF418BR,40,"Chauqui, Diego (T)",LITICA - RIO GRANDE,15," $ 52,827.00 ",Sistema eléctrico,Revisión de carrocería,107
+3186,09-oct,1562-00000780,M41,AF181NU,C22,AF121YK,40,"Condori, Mario (T)",LITIO M. P. MARIANA,17," $ 378,615.00 ",Frenos,Revisión de carrocería,120
+3194,10-oct,1562-00000785,M45,AF791GW,C24,AF418BQ,40,"Vilte, walter (R)",LITIO M. P. MARIANA,16," $ 486,973.00 ",Transmisión,Cambio de amortiguadores,172
+3193,10-oct,1562-00000786,M44,AF791GV,C23,AF121YS,40,"Vilte, walter (R)",GALAXY,12," $ 143,965.00 ",Motor,Revisión de transmisión,183
+3192,10-oct,1562-00000787,M38,AE354AG,C18,AE810XH,40,"Suarez, Rolando (T)",ERAMINE,9," $ 358,032.00 ",Frenos,Cambio de amortiguadores,140
+3206,11-oct,1562-00000788,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",EXAR,7," $ 414,027.00 ",Frenos,Revisión de carrocería,197
+3202,11-oct,1562-00000792,M42,AF204AU,C26,AG265GB,40,"Gonzalez, Marcos (R)",CORANZULI PIRQUITAS,7," $ 465,722.00 ",Transmisión,Sustitución de frenos,185
+3211,12-oct,1562-00000795,M37,AE325BO,C17,AE810XG,40,"Reales, Manuel (T)",POSCO,19," $ 403,389.00 ",Suspensión,Sustitución de frenos,143
+3209,12-oct,1562-00000797,M43,AF192NQ,C25,AF418BR,40,"Veleizan, Carlos",EXAR,2," $ 66,662.00 ",Frenos,Sustitución de frenos,192
+3220,13-oct,1562-00000798,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",HANAQ,16," $ 133,962.00 ",Sistema eléctrico,Sustitución de frenos,121
+3218,13-oct,1562-00000800,M45,AF791GW,C24,AF418BQ,40,"Vilte, walter (R)",EXAR,11," $ 69,594.00 ",Transmisión,Reparación eléctrica,174
+3217,13-oct,1562-00000801,M41,AF181NU,C22,AF121YK,40,"Condori, Mario (T)",ERAMINE,17," $ 189,714.00 ",Transmisión,Revisión de transmisión,152
+3215,13-oct,1562-00000804,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",MINERA DEL ALTIPLANO EXPANSION,11," $ 496,631.00 ",Transmisión,Revisión de carrocería,197
+3224,14-oct,1562-00000809,M42,AF204AU,C26,AG265GB,40,"Gonzalez, Marcos (R)",LITHEA,17," $ 349,548.00 ",Sistema eléctrico,Revisión de transmisión,185
+3223,14-oct,1562-00000815,M38,AE354AG,C17,AE810XG,40,"Collar, Walter (T)",CORANZULI PIRQUITAS,11," $ 121,876.00 ",Sistema eléctrico,Ajuste de válvulas,107
+3222,14-oct,1562-00000816,M43,AF192NQ,C13,JRI913,34,"Lescano, Marcos",MANSFIELD,7," $ 375,908.00 ",Transmisión,Sustitución de frenos,101
+3234,15-oct,1562-00000820,M45,AF791GW,C24,AF418BQ,40,"Vilte, walter (R)",SALES,6," $ 413,900.00 ",Carrocería,Cambio de filtros,130
+3232,15-oct,1562-00000822,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",ERAMINE,19," $ 295,909.00 ",Motor,Reparación eléctrica,138
+3241,16-oct,0954-00001137,M44,AF791GV,C23,AF121YS,40,"Suarez, Rolando (T)",MANSFIELD,13," $ 155,357.00 ",Motor,Revisión de transmisión,141
+3237,16-oct,1562-00000829,M39,AF181NS,C26,AG265GB,40,"Chauqui, Diego (T)",MANSFIELD,6," $ 212,826.00 ",Suspensión,Cambio de amortiguadores,117
+3249,17-oct,1562-00000832,M42,AF204AU,,,,"Reales, Manuel (T)",MANSFIELD,18," $ 481,890.00 ",Frenos,Sustitución de frenos,102
+3246,17-oct,1562-00000835,M41,AF181NU,C20,AF066DC,40,"Gonzalez, Marcos (R)",MANSFIELD,3," $ 66,025.00 ",Transmisión,Revisión de transmisión,163
+3244,17-oct,1562-00000837,M38,AE354AG,C18,AE810XH,40,"Collar, Walter (T)",POSCO,5," $ 80,845.00 ",Motor,Revisión de carrocería,185
+3243,17-oct,1562-00000838,M43,AF192NQ,,,,"Arroyo, Mario (T)",CORANZULI PIRQUITAS,8," $ 401,306.00 ",Motor,Cambio de aceite,195
+3242,17-oct,1562-00000839,M45,AF791GW,C24,AF418BQ,40,"Ramos, Pablo (T)",LITIO M. P. MARIANA,8," $ 186,918.00 ",Sistema eléctrico,Cambio de filtros,189
+3262,19-oct,0954-00001138,M43,AF192NQ,C28,AG846UD,40,"Arroyo, Mario (T)",HANAQ,14," $ 223,074.00 ",Suspensión,Revisión de transmisión,101
+3261,19-oct,1562-00000846,M40,AF181NT,C21,AF066DD,40,"Alfaro, Sergio (T)",EXAR,15," $ 454,433.00 ",Frenos,Cambio de filtros,196
+3267,20-oct,1562-00000851,M44,AF791GV,C24,AF418BQ,40,"Suarez, Rolando (T)",CHINCHILLAS PIRQUITAS,16," $ 252,490.00 ",Carrocería,Cambio de aceite,105
+3265,20-oct,1562-00000853,M42,AF204AU,C28,AG846UD,40,"Reales, Manuel (T)",LITHEA,2," $ 87,154.00 ",Suspensión,Revisión de transmisión,132
+3263,20-oct,1562-00000855,M41,AF181NU,C20,AF066DC,40,"Gonzalez, Marcos (R)",LITIO M. P. MARIANA,9," $ 150,378.00 ",Motor,Ajuste de válvulas,159
+3273,21-oct,1562-00000858,M43,MBW542,C28,AG846UD,40,"Arroyo, Mario (T)",MINERA DEL ALTIPLANO FMC,1," $ 190,682.00 ",Motor,Cambio de aceite,173
+3273,21-oct,1562-00000858,M43,MBW542,C28,AG846UD,40,"Arroyo, Mario (T)",MINERA DEL ALTIPLANO FMC,1," $ 190,682.00 ",Motor,Cambio de aceite,173
+3271,21-oct,1562-00000860,M45,AG665IM,C24,AF418BQ,40,"Ramos, Pablo (T)",MANSFIELD,5," $ 402,914.00 ",Frenos,Revisión de carrocería,117
+3269,21-oct-24,1562-00000862,M40,AG775BO,C21,AF066DD,40,"Alfaro, Sergio (T)",LITIO M. P. MARIANA,13," $ 215,054.00 ",Frenos,Cambio de aceite,111
+3277,22-oct,1562-00000864,M38,AG775BP,C17,AE810XG,40,"Collar, Walter (T)",ERAMINE,13," $ 206,172.00 ",Transmisión,Reparación eléctrica,171
+3282,23-oct,1562-00000868,M42,AF791GW,C28,AG846UD,40,"Ramon, Luis (T)",MANSFIELD,2," $ 241,485.00 ",Suspensión,Revisión de carrocería,166
+3285,24/10/2024,1562-00000879,M41,OXL845,C22,AF121YK,40,"Condori, Mario (T)",CHINCHILLAS PIRQUITAS,4," $ 371,078.00 ",Transmisión,Cambio de amortiguadores,143
+3284,24-oct,1562-00000880,M43,AF181NU,C25,AF418BR,40,"Vilte, walter (R)",EXAR,16," $ 196,693.00 ",Carrocería,Reparación eléctrica,134
+3283,24-oct,1562-00000881,M45,AF192NQ,C24,AF418BQ,40,"Ramos, Pablo (T)",ERAMINE,15," $ 212,972.00 ",Transmisión,Reparación eléctrica,191
+3293,25-oct,1562-00000882,M38,AF181NT,C18,AE810XH,40,"Collar, Walter (T)",MINERA DEL ALTIPLANO FMC,16," $ 198,187.00 ",Frenos,Revisión de transmisión,158
+3295,25-oct,1562-00000885,M44,AG665IK,C23,AF121YS,40,"Suarez, Rolando (T)",CORANZULI PIRQUITAS,6," $ 137,841.00 ",Motor,Revisión de transmisión,183
+3294,25-oct,1562-00000888,M40,AF791GV,C21,AF066DD,40,"Gonzalez, Marcos (R)",GALAXY,11," $ 282,517.00 ",Frenos,Revisión de carrocería,133
+3305,26-oct,1562-00000891,M43,AG665IJ,C25,AF418BR,40,"Vilte, walter (R)",LITIO M. P. MARIANA,3," $ 430,299.00 ",Transmisión,Reparación eléctrica,196
+3302,26-oct,1562-00000892,M41,AF204AU,C22,AF121YK,40,"Condori, Mario (T)",CHINCHILLAS PIRQUITAS,6," $ 63,987.00 ",Suspensión,Reparación eléctrica,125
+3303,26-oct,1562-00000893,M41,AF192NQ,C22,AF121YK,,"Condori, Mario (T)",CHINCHILLAS PIRQUITAS,3," $ 77,542.00 ",Transmisión,Reparación eléctrica,178
+3301,26-oct,1562-00000896,M39,AF181NU,C27,AG265GC,40,"Fernandez, Nelson (T)",SALES,17," $ 382,515.00 ",Frenos,Sustitución de frenos,170
+3304,26-oct,1562-00000898,M42,AF192NQ,C28,AG846UD,40,"Ramon, Luis (T)",LITIO M. P. MARIANA,1," $ 473,523.00 ",Transmisión,Revisión de carrocería,102
+3312,27-oct,0954-00001140,M45,AG420QR,C24,AF418BQ,40,"Ramos, Pablo (T)",PECOM,16," $ 414,071.00 ",Sistema eléctrico,Sustitución de frenos,170
+3317,28-oct,1562-00000903,M41,AF791GV,C22,AF121YK,40,"Condori, Mario (T)",MINERA DEL ALTIPLANO EXPANSION,16," $ 371,642.00 ",Carrocería,Cambio de amortiguadores,186
+3318,28-oct,1562-00000904,M44,,C23,AF121YS,40,"Suarez, Rolando (T)",LITHEA,10," $ 236,105.00 ",Sistema eléctrico,Revisión de carrocería,122
+3316,28-oct,1562-00000909,M40,AF181NU,C21,AF066DD,40,"Hurtado, Fabian (T)",ERAMINE,1," $ 341,450.00 ",Suspensión,Cambio de amortiguadores,118
